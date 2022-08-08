@@ -1,0 +1,15 @@
+body{
+        overflow-x: hidden !important;
+}
+.carousel-inner{
+    max-width: 500px;
+    margin-left: 35%;
+}
+.bg-image{
+    background-image: url(pexels-anthony-132477.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 100vh;
+    width: 100%;
+}
